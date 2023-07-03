@@ -1,0 +1,19 @@
+{
+	"turtles": [{
+			"id": 1,
+			"name": "Leonardo",
+			"description": "The leader of the group",
+			"price": 7.99,
+			"age": 15,
+			"gender": "male"
+		},
+		{
+			"id": 2,
+			"name": "Raphael",
+			"description": "The rebel of the group",
+			"price": 15.99,
+			"age": 14,
+			"gender": "male"
+		}
+	]
+}
